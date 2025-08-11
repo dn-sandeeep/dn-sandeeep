@@ -1,3 +1,15 @@
+Android Engineer
+An Engineer, Educator, and an Entrepreneurial Mindset Person who practices Software Engineering (MAD Skills) in his daily life to Build Valid Products.
+
+📧 Contact
+Email: choudharydeepak990@gmail.com
+Phone: +91 8432808299
+LinkedIn: https://www.linkedin.com/in/hey-deepak/
+GitHub: github.com/Hey-Deepak
+Medium: https://medium.com/@HeyDeepak
+YouTube: https://www.youtube.com/@faangx
+Resume: Notion Link
+
 <h1 align="center">Hi 👋, I'm Sandeep Chauhan</h1>
 <h3 align="center">Full Stack developer</h3>
 
