@@ -1,84 +1,86 @@
-## Experience:-
+# Sandeep Chauhan 👋
 
-- **E-Commerce web application**
-    - **Technologies:** HTML, CSS, JavaScript.
-    - Designed and developed a **responsive e-commerce website** using HTML, CSS, and JavaScript.
-    - Created **product listing pages** with search and category filter functionality.
-    - Implemented **shopping cart** feature with dynamic price updates.
-    - Added **checkout flow** for order summary and confirmation.
-    - Used **JavaScript DOM manipulation** to create interactive UI components.
-    - Built **responsive layouts** for seamless viewing on mobile, tablet, and desktop devices.
-    - Applied **CSS styling and animations** for an engaging user experience.
-    - Managed **product data** using JSON for easy updates and scalability.
-    - Deployed project on **GitHub Pages.**
-- **Laundry Service Web Application**
-    - **Technologies:**  HTML, CSS, JavaScript *(update if you used any backend or database)*
-    - Developed a **responsive laundry service website** allowing users to schedule pickup and delivery of clothes online.
-    - Created an **interactive booking form** with validation using JavaScript for accurate customer data.
-    - Designed **service listing pages** with details of washing, dry cleaning, and ironing options.
-    - Implemented **dynamic price calculation** based on selected services and quantity.
-    - Applied **CSS styling and animations** to enhance the visual appeal and user engagement.
-    - Ensured **mobile-friendly design** for a smooth experience across devices.
-    - Used **JavaScript DOM manipulation** to update order details in real time.
-    - Deployed the project on **GitHub Pages** (or your hosting platform) for public access.
+#### Android Engineer
 
-## Projects(html, css, js)
+---
 
-- **To-Do Web Application**
-    - **Technologies:**  HTML, CSS, JavaScript *(update if you used localStorage, Firebase, etc.)*
-    - Built a **responsive task management web app** to create, update, and delete daily tasks.
-    - Implemented **JavaScript DOM manipulation** for real-time task list updates.
-    - Added **task completion toggle** with visual indicators for a better user experience.
-    - Integrated **localStorage** to save tasks and persist data across browser sessions.
-    - Designed **mobile-friendly UI** using CSS for a seamless experience on all devices.
-    - Applied **form validation** to ensure correct and complete task inputs.
-    - Deployed the application on **GitHub Pages** (or chosen hosting platform) for public access.
-- **Countries Search Page**
-    - **Technologies:** HTML, CSS, JavaScript, REST API *(if you used an API like REST Countries)*
-    - Developed a **responsive country search web page** allowing users to search and view country details.
-    - Integrated the **REST Countries API** to fetch live country data, including flag, population, region, and capital.
-    - Implemented **real-time search filtering** using JavaScript for instant results.
-    - Designed a **mobile-friendly UI** with CSS for a smooth user experience across devices.
-    - Applied **JavaScript DOM manipulation** to dynamically render country cards.
-    - Added **error handling** for invalid inputs or failed API requests.
-    - Deployed the application on **GitHub Pages** (or chosen hosting platform) for public access.
-    
-- **Know a Fact About the Number**
-    - **Technologies:** HTML, CSS, JavaScript, Numbers API *(if you used it)*
-    - Built an **interactive web app** that provides interesting facts about any number entered by the user.
-    - Integrated **Numbers API** to fetch and display trivia, math, and historical facts.
-    - Implemented **real-time input handling** using JavaScript for instant fact retrieval.
-    - Designed a **responsive and user-friendly UI** using HTML and CSS.
-    - Applied **JavaScript DOM manipulation** to dynamically update facts without a page reload.
-    - Added **error handling** for invalid inputs or API request failures.
-    - Deployed the project on **GitHub Pages** (or chosen hosting platform) for public access.
-- Random Joke Page
-    - **Technologies:** HTML, CSS, JavaScript, Joke API *(if used)*
-    - Developed an **interactive web page** that displays a new random joke at the click of a button.
-    - Integrated **Joke API** to fetch and display jokes dynamically.
-    - Implemented **JavaScript DOM manipulation** for real-time joke updates without page reload.
-    - Designed a **responsive and visually appealing UI** using HTML and CSS.
-    - Added **loading states and error handling** for a smooth user experience.
-    - Deployed the project on **GitHub Pages** (or chosen hosting platform) for public access.
-<h1 align="center">Hi 👋, I'm Sandeep Chauhan</h1>
-<h3 align="center">Full Stack developer</h3>
+Transitioned from Mechanical Engineering to Android Development by solving real problems from a laundry service app to personal tools like a music ad blocker. For me, Android isn’t just a platform, it’s a canvas for creating impactful solutions. This is the field I’m committed to for the long run.
 
-- 🌱 I’m currently learning **DSA, web development**
+## 📧 Contact
 
-- 💬 Ask me about **Python, JavaScript, HTML, CSS, React JS, Mysql, Nodjs**
+-   **Email:** dn.sandeeep@gmail.com
+-   **Phone:** +91 8878997534
+-   **LinkedIn:** www.linkedin.com/in/dn-sandeeep
+-   **GitHub:** https://github.com/dn-sandeeep
+-   **Medium:** https://medium.com/@dn.sandeeep
+-   **Resume**: [Notion Link](https://www.notion.so/Sandeep-Chauhan-24c4803a5d4080ac825de8e3c7093b8e)
 
-- 📫 How to reach me **dn.sandeeep@gmail.com**
+---
+## 💼 Work Experience
+#### The Streamliners (Remote) (April 25 - Sep 25)
+*The Streamliners builds MVPs to help startups launch and validate ideas quickly.*
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/dn-sandeeep" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/dn-sandeeep" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/sandeep_aiim" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sandeep_aiim" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/dn_sandeeep" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dn_sandeeep" height="30" width="40" /></a>
-</p>
+- Developed a **Laundry Service Mobile** using **Kotlin & Compose.**
+- Created a **User** & **Admin Dashboard app** to update service status and manage customer orders.
+- Followed **Clean Code** & **MVVM Architecture** for clean, maintainable, and scalable code.
+- Integrated **Firebase Firestore** for real-time order storage, retrieval, and service status updates.
+- Implemented **Firebase Authentication** for secure user registration and login.
+- Designed a **modern, user-friendly Compose UI** following **Material Design** guidelines.
+- Tested on multiple Android devices to ensure **performance, responsiveness, and compatibility**.
+---
+## Projects 
+#### AdMuter App
+Service-based Android app that runs in the background to auto-mute music ads in real time, with live stats on ads blocked, songs played, and restoring volume post-ad.
 
+- Developed an intelligent background Android service that auto-mutes ads in music streaming platforms for uninterrupted playback.
+- Leveraged NotificationListenerService for real-time ad detection and seamless, non-intrusive operation.
+- Designed a minimal yet functional control interface to start and manage the service.
+- Implemented MVVM architecture with Kotlin Coroutines to ensure smooth and efficient background processing.
+- Gained deep expertise in Android Services, background task management, and system event handling.
+
+---
+#### Weather App
+*An Android app that provides real-time weather updates for any country, city, or town, featuring detailed climate metrics in a clean Jetpack Compose interface.*
+
+- Built a real-time weather app allowing users to search by country, city, or town.
+- Displayed key metrics including temperature, humidity, wind speed, precipitation, UV index, and “feels like” temperature.
+- Implemented live updates with a last updated timestamp for accurate data display.
+- Designed a clean, responsive UI using Jetpack Compose for optimal user experience.
+- Integrated public weather APIs via Retrofit for reliable data fetching.
+
+---
+
+## 🛠️ Skills
+
+|            |                   |          |                 |   |
+| ----------------------------------------- | -------------------------- | -------------------------- | -------------------------- | --------------- |
+| **Modern Android Development**            | **Coroutine**              | **Firebase**               | **Figma**                  | **Kotlin** |
+| **UI/UX**                                 | **Postman**                | **OOPS**                   | **Functional Programming** | **Jet Compose** |
+| **Rest APIs (Retrofit & Okhttp)**         | **Multi-Module**           | **Functional Programming** | **Clean Architecture**     | **Ktor**        |
+| **Dependency Injection (Koin & Dagger/Hilt)** | **Room DB**            | **Analytics**                  | **MVVM**                       | **GitHub**          |
+
+**Soft Skills:**
+- Communication
+- Logical & Critical
+- Planning
+- Entrepreneurship
+- Punctual
+- HardWorking
+---
+## 🏆 Achievements
+
+• Solved 250+ Problems on DSA. </br>
+• Participated in 10+ CP/DSA Contests. </br>
+• 850+ Rating on CodeChef. </br>
+
+---
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dn-sandeeep&show_icons=true&locale=en&layout=compact" alt="dn-sandeeep" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dn-sandeeep&show_icons=true&locale=en&layout=compact" alt="dn-sandeeep" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dn-sandeeep&show_icons=true&locale=en" alt="dn-sandeeep" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dn-sandeeep&" alt="dn-sandeeep" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dn-sandeeep" alt="dn-sandeeep" /></a> </p>
