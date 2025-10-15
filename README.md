@@ -39,7 +39,7 @@ Service-based Android app that runs in the background to auto-mute music ads in 
 - Gained deep expertise in Android Services, background task management, and system event handling.
 
 ---
-####MyAI App
+#### MyAI App
 *A mobile AI application built on the Gemini API, demonstrating proficiency in modern Android development and architectural patterns.
 
 - Developed a complete native Android application ("MyAI") using Kotlin and Jetpack Compose for a modern, declarative UI.
