@@ -29,7 +29,7 @@ Transitioned from Mechanical Engineering to Android Development by solving real 
 - Tested on multiple Android devices to ensure **performance, responsiveness, and compatibility**.
 ---
 ## Projects 
-#### AdMuter App
+#### SpotifyAdMuter App
 Service-based Android app that runs in the background to auto-mute music ads in real time, with live stats on ads blocked, songs played, and restoring volume post-ad.
 
 - Developed an intelligent background Android service that auto-mutes ads in music streaming platforms for uninterrupted playback.
@@ -37,6 +37,15 @@ Service-based Android app that runs in the background to auto-mute music ads in 
 - Designed a minimal yet functional control interface to start and manage the service.
 - Implemented MVVM architecture with Kotlin Coroutines to ensure smooth and efficient background processing.
 - Gained deep expertise in Android Services, background task management, and system event handling.
+
+---
+####MyAI App
+*A mobile AI application built on the Gemini API, demonstrating proficiency in modern Android development and architectural patterns.
+
+- Developed a complete native Android application ("MyAI") using Kotlin and Jetpack Compose for a modern, declarative UI.
+- Implemented the Model-View-ViewModel (MVVM) architecture to ensure a clean separation of concerns, testability, and a maintainable codebase.
+- Integrated the Gemini API to power the core functionality, enabling real-time, conversational AI interactions.
+- Managed network communication with Ktor, utilizing its client to efficiently send API requests and process received responses.
 
 ---
 #### Weather App
@@ -49,7 +58,6 @@ Service-based Android app that runs in the background to auto-mute music ads in 
 - Integrated public weather APIs via Retrofit for reliable data fetching.
 
 ---
-
 ## 🛠️ Skills
 
 |            |                   |          |                 |   |
