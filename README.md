@@ -4,7 +4,7 @@
 
 ---
 
-Transitioned from Mechanical Engineering to Android Development by solving real problems from a laundry service app to personal tools like a music ad blocker. For me, Android isn’t just a platform, it’s a canvas for creating impactful solutions. This is the field I’m committed to for the long run.
+Transitioned from Mechanical Engineering to Android Development by solving real problems from a laundry service app to personal tools like a music ad blocker. For me, Android isn’t just a platform; it’s a canvas for creating impactful solutions. This is the field I’m committed to for the long run.
 
 ## 📧 Contact
 
@@ -40,7 +40,7 @@ Service-based Android app that runs in the background to auto-mute music ads in 
 
 ---
 #### MyAI App
-*A mobile AI application built on the Gemini API, demonstrating proficiency in modern Android development and architectural patterns.
+A mobile AI application built on the Gemini API, demonstrating proficiency in modern Android development and architectural patterns.
 
 - Developed a complete native Android application ("MyAI") using Kotlin and Jetpack Compose for a modern, declarative UI.
 - Implemented the Model-View-ViewModel (MVVM) architecture to ensure a clean separation of concerns, testability, and a maintainable codebase.
