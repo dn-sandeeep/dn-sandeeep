@@ -17,7 +17,7 @@ Transitioned from Mechanical Engineering to Android Development by solving real 
 
 ---
 ## 💼 Work Experience
-#### The Streamliners (Remote) (April 25 - Jan 26)
+#### The Streamliners (Contract) (April 25 - Jan 26)
 *The Streamliners builds MVPs to help startups launch and validate ideas quickly.*
 
 ### Madhav Stone
