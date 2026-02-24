@@ -17,9 +17,22 @@ Transitioned from Mechanical Engineering to Android Development by solving real 
 
 ---
 ## 💼 Work Experience
-#### The Streamliners (Remote) (April 25 - Sep 25)
+#### The Streamliners (Remote) (April 25 - Jan 26)
 *The Streamliners builds MVPs to help startups launch and validate ideas quickly.*
 
+### Madhav Stone
+- Tech Stack: Kotlin, Jetpack Compose, MVVM, Firebase, Coroutines, StateFlow, Git/GitHub.
+- Architected a production-grade inventory system using Firebase for backend services, implementing Role-Based Access Control (RBAC) for Admin, Managers, Liner, and Supervisors.
+- Integrated Firebase Firestore for real-time data synchronization, ensuring instant updates of stone processing stages across multiple devices.
+- Built a highly reactive UI system using Jetpack Compose and StateFlow to render dynamic data tables and live machine status dashboards.
+
+### Veda Connect
+- Tech Stack: Kotlin, Jetpack Compose, MVVM, Firebase, Coroutines, StateFlow, Git/GitHub,  Play Store.
+- Designed and developed a feature-rich Android app providing users with Vedic knowledge.
+- Built a modular navigation system using Bottom Navigation Bar, connecting multiple key sections such as, Content, Gamified, and Awareness screens.
+- Managed Play Store deployment, app signing, and version updates, ensuring smooth release management.
+
+### Laundry Service
 - Developed a **Laundry Service Mobile** using **Kotlin & Compose.**
 - Created a **User** & **Admin Dashboard app** to update service status and manage customer orders.
 - Followed **Clean Code** & **MVVM Architecture** for clean, maintainable, and scalable code.
@@ -28,8 +41,15 @@ Transitioned from Mechanical Engineering to Android Development by solving real 
 - Designed a **modern, user-friendly Compose UI** following **Material Design** guidelines.
 - Tested on multiple Android devices to ensure **performance, responsiveness, and compatibility**.
 ---
+
 ## Projects 
-#### SpotifyAdMuter App
+
+### SilentZone (Personal Project)
+- Automated Mode Switching: Developed a Kotlin-based utility that auto-toggles Ringer modes (Silent/Normal) using Geofencing and Wi-Fi SSID triggers.
+- Battery Optimization: Leveraged WorkManager and Broadcast Receivers for efficient background processing, ensuring minimal battery drain during location tracking.
+- Leveraged NotificationService for real-time ad detection and seamless, non-intrusive operation.
+
+#### SpotifyAdMuter App (Personal Project)
 Service-based Android app that runs in the background to auto-mute music ads in real time, with live stats on ads blocked, songs played, and restoring volume post-ad.
 
 - Developed an intelligent background Android service that auto-mutes ads in music streaming platforms for uninterrupted playback.
@@ -39,7 +59,7 @@ Service-based Android app that runs in the background to auto-mute music ads in 
 - Gained deep expertise in Android Services, background task management, and system event handling.
 
 ---
-#### MyAI App
+#### MyAI App (Personal Project)
 A mobile AI application built on the Gemini API, demonstrating proficiency in modern Android development and architectural patterns.
 
 - Developed a complete native Android application ("MyAI") using Kotlin and Jetpack Compose for a modern, declarative UI.
@@ -48,7 +68,7 @@ A mobile AI application built on the Gemini API, demonstrating proficiency in mo
 - Managed network communication with Ktor, utilizing its client to efficiently send API requests and process received responses.
 
 ---
-#### Weather App
+#### Weather App (Personal Project)
 *An Android app that provides real-time weather updates for any country, city, or town, featuring detailed climate metrics in a clean Jetpack Compose interface.*
 
 - Built a real-time weather app allowing users to search by country, city, or town.
