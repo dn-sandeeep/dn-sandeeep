@@ -44,7 +44,7 @@ Transitioned from Mechanical Engineering to Android Development by solving real 
 
 ## Projects 
 
-### SilentZone (Personal Project)
+#### SilentZone (Personal Project)
 - Automated Mode Switching: Developed a Kotlin-based utility that auto-toggles Ringer modes (Silent/Normal) using Geofencing and Wi-Fi SSID triggers.
 - Battery Optimization: Leveraged WorkManager and Broadcast Receivers for efficient background processing, ensuring minimal battery drain during location tracking.
 - Leveraged NotificationService for real-time ad detection and seamless, non-intrusive operation.
