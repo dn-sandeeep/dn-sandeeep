@@ -4,7 +4,7 @@
 
 ---
 
-Transitioned from Mechanical Engineering to Android Development by solving real problems from a laundry service app to personal tools like a music ad blocker. For me, Android isn’t just a platform; it’s a canvas for creating impactful solutions. This is the field I’m committed to for the long run.
+Android Engineer specializing in Modern Android Development (MAD). Proficient in crafting robust applications using Kotlin, Jetpack Compose, and Clean Architecture. Dedicated to continuous learning and building impactful mobile solutions—from enterprise inventory management to personalized AI assistants.
 
 ## 📧 Contact
 
