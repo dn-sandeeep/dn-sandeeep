@@ -44,6 +44,18 @@ Android Engineer specializing in Modern Android Development (MAD). Proficient in
 
 ## Projects 
 
+### 💰 [Track Spends  ](https://github.com/dn-sandeeep/Personal-Finance-Companion)
+> Android finance app built with Jetpack Compose & Clean Architecture
+- 📊 Dashboard with Budget Ring, Weekly Trend Charts (pure Canvas — no library)
+- 🎯 Goal tracking with Saving Velocity Engine (14-day rolling average + ETA projection)
+- 📅 No-Spend Challenge & Insights Pie Chart
+- 🔔 WorkManager reminders, DataStore preferences, CSV Export via SAF
+- 🏗️ MVVM + Clean Architecture | Hilt DI | Room DB | Coroutines + Flow
+- 📱 Offline-first | Material 3 | Min SDK 24
+[![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white)](https://kotlinlang.org/)
+[![Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?logo=jetpackcompose&logoColor=white)](https://developer.android.com/jetpack/compose)
+[![Download](https://img.shields.io/badge/Download%20APK-2E7D32?logo=android&logoColor=white)](https://github.com/dn-sandeeep/Personal-Finance-Companion/releases/latest)
+
 ### 🤫 SilentZone — Intelligent Modes Automation
 
 > An Android app that automatically silences your phone based on location, WiFi network, and calendar events.
