@@ -44,10 +44,19 @@ Android Engineer specializing in Modern Android Development (MAD). Proficient in
 
 ## Projects 
 
-#### SilentZone (Personal Project)
-- Automated Mode Switching: Developed a Kotlin-based utility that auto-toggles Ringer modes (Silent/Normal) using Geofencing and Wi-Fi SSID triggers.
-- Battery Optimization: Leveraged WorkManager and Broadcast Receivers for efficient background processing, ensuring minimal battery drain during location tracking.
-- Leveraged NotificationService for real-time ad detection and seamless, non-intrusive operation.
+### 🤫 SilentZone — Intelligent Modes Automation
+
+> An Android app that automatically silences your phone based on location, WiFi network, and calendar events.
+
+**Key Highlights:**
+- 📍 **Geofencing** — Triggers silent mode in the background using Google Play Services Location API
+- 📶 **WiFi Zones** — Auto-silences when connected to a saved SSID; restores previous mode on disconnect
+- 📞 **Emergency Whitelist** — Priority contacts can still ring through even in Silent mode
+- 📅 **Meeting Mode** — Reads Google Calendar "Busy" events and silences automatically
+- 🏗️ **Architecture** — MVVM + Clean Architecture · Hilt DI · Room DB · Jetpack Compose (Material 3)
+- 🔒 **Privacy First** — All location, WiFi, and contact data processed fully on-device
+
+[![View Project](https://img.shields.io/badge/GitHub-SilentZone-blue?style=flat&logo=github)](https://github.com/dn-sandeeep/Silent-Zone)
 
 #### SpotifyAdMuter App (Personal Project)
 Service-based Android app that runs in the background to auto-mute music ads in real time, with live stats on ads blocked, songs played, and restoring volume post-ad.
