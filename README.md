@@ -26,20 +26,21 @@ Android Engineer specializing in Modern Android Development (MAD). Proficient in
 - Integrated Firebase Firestore for real-time data synchronization, ensuring instant updates of stone processing stages across multiple devices.
 - Built a highly reactive UI system using Jetpack Compose and StateFlow to render dynamic data tables and live machine status dashboards.
 
+💰 Track Spends
+Android finance app built with Jetpack Compose & Clean Architecture
+
+📊 Dashboard with Budget Ring, Weekly Trend Charts (pure Canvas — no library)
+🎯 Goal tracking with Saving Velocity Engine (14-day rolling average + ETA projection)
+📅 No-Spend Challenge & Insights Pie Chart
+🔔 WorkManager reminders, DataStore preferences, CSV Export via SAF
+🏗️ MVVM + Clean Architecture | Hilt DI | Room DB | Coroutines + Flow
+📱 Offline-first | Material 3 | Min SDK 24 Kotlin Compose Download
+
 ### Veda Connect
 - Tech Stack: Kotlin, Jetpack Compose, MVVM, Firebase, Coroutines, StateFlow, Git/GitHub,  Play Store.
 - Designed and developed a feature-rich Android app providing users with Vedic knowledge.
-- Built a modular navigation system using Bottom Navigation Bar, connecting multiple key sections such as, Content, Gamified, and Awareness screens.
+- Built a modular navigation system using Bottom Navigation Bar, connecting multiple key sections such as Content, Gamified, and Awareness screens.
 - Managed Play Store deployment, app signing, and version updates, ensuring smooth release management.
-
-### Laundry Service
-- Developed a **Laundry Service Mobile** using **Kotlin & Compose.**
-- Created a **User** & **Admin Dashboard app** to update service status and manage customer orders.
-- Followed **Clean Code** & **MVVM Architecture** for clean, maintainable, and scalable code.
-- Integrated **Firebase Firestore** for real-time order storage, retrieval, and service status updates.
-- Implemented **Firebase Authentication** for secure user registration and login.
-- Designed a **modern, user-friendly Compose UI** following **Material Design** guidelines.
-- Tested on multiple Android devices to ensure **performance, responsiveness, and compatibility**.
 ---
 
 ## Projects 
@@ -55,6 +56,8 @@ Android Engineer specializing in Modern Android Development (MAD). Proficient in
 [![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white)](https://kotlinlang.org/)
 [![Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?logo=jetpackcompose&logoColor=white)](https://developer.android.com/jetpack/compose)
 [![Download](https://img.shields.io/badge/Download%20APK-2E7D32?logo=android&logoColor=white)](https://github.com/dn-sandeeep/Personal-Finance-Companion/releases/latest)
+
+---
 
 ### 🤫 SilentZone — Intelligent Modes Automation
 
