@@ -26,16 +26,6 @@ Android Engineer specializing in Modern Android Development (MAD). Proficient in
 - Integrated Firebase Firestore for real-time data synchronization, ensuring instant updates of stone processing stages across multiple devices.
 - Built a highly reactive UI system using Jetpack Compose and StateFlow to render dynamic data tables and live machine status dashboards.
 
-💰 Track Spends
-Android finance app built with Jetpack Compose & Clean Architecture
-
-📊 Dashboard with Budget Ring, Weekly Trend Charts (pure Canvas — no library)
-🎯 Goal tracking with Saving Velocity Engine (14-day rolling average + ETA projection)
-📅 No-Spend Challenge & Insights Pie Chart
-🔔 WorkManager reminders, DataStore preferences, CSV Export via SAF
-🏗️ MVVM + Clean Architecture | Hilt DI | Room DB | Coroutines + Flow
-📱 Offline-first | Material 3 | Min SDK 24 Kotlin Compose Download
-
 ### Veda Connect
 - Tech Stack: Kotlin, Jetpack Compose, MVVM, Firebase, Coroutines, StateFlow, Git/GitHub,  Play Store.
 - Designed and developed a feature-rich Android app providing users with Vedic knowledge.
