@@ -34,6 +34,15 @@ Android Engineer specializing in Modern Android Development (MAD). Proficient in
 ---
 
 ## Projects 
+### 🍿 [TimePass](https://github.com/username/TimePass)
+> A modern Android application delivering curated content recommendations with a seamless user experience.
+
+- **📱 Fully Declarative UI & Custom Theming:** Built the entire user interface from scratch using **Jetpack Compose**. Avoided default themes by implementing a unified, custom design system (`Theme.kt`, `Color.kt`) for a personalized look.
+- **🏗️ Robust Clean Architecture:** Implemented a strictly decoupled **MVVM (Model-View-ViewModel)** architecture, ensuring clear separation of presentation logic from UI components to maximize scalability.
+- **🔐 Secure Authentication Flow:** Integrated a robust, end-to-end user authentication system managed by dedicated ViewModels (`AuthViewModel`), ensuring safe and stable onboarding.
+- **🛣️ Advanced Compose Navigation:** Engineered a complex, type-safe navigation graph (`NavGraph`) facilitating fluid transitions and state-preserving navigation across multiple screens without XML.
+- **⚙️ Modern Build System:** Migrated to centralized dependency management using **Kotlin DSL (`build.gradle.kts`)** and **Gradle Version Catalogs (`libs.versions.toml`)** for highly optimized, reproducible, and faster builds.
+
 
 ### 💰 [Track Spends  ](https://github.com/dn-sandeeep/Personal-Finance-Companion)
 > Android finance app built with Jetpack Compose & Clean Architecture
