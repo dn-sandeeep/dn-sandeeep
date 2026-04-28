@@ -17,7 +17,7 @@ Android Engineer specializing in Modern Android Development (MAD). Proficient in
 
 ---
 ## 💼 Work Experience
-#### The Streamliners (Contract) (April 25 - Jan 26)
+#### The Streamliners (April 25)
 *The Streamliners builds MVPs to help startups launch and validate ideas quickly.*
 
 ### Madhav Stone
