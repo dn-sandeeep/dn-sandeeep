@@ -20,7 +20,7 @@ Android Engineer specializing in Modern Android Development (MAD). Proficient in
 #### The Streamliners (April 25)
 *The Streamliners builds MVPs to help startups launch and validate ideas quickly.*
 
-### Madhav Stone
+### [Madhav Stone](https://github.com/dn-sandeeep/Madhav-Stone)
 - Tech Stack: Kotlin, Jetpack Compose, MVVM, Firebase, Coroutines, StateFlow, Git/GitHub.
 - Architected a production-grade inventory system using Firebase for backend services, implementing Role-Based Access Control (RBAC) for Admin, Managers, Liner, and Supervisors.
 - Integrated Firebase Firestore for real-time data synchronization, ensuring instant updates of stone processing stages across multiple devices.
