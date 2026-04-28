@@ -58,7 +58,7 @@ Android Engineer specializing in Modern Android Development (MAD). Proficient in
 
 ---
 
-### 🤫 SilentZone — Intelligent Modes Automation
+### 🤫 [SilentZone](https://github.com/dn-sandeeep/Silent-Zone) — Intelligent Modes Automation
 
 > An Android app that automatically silences your phone based on location, WiFi network, and calendar events.
 
