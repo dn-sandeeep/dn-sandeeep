@@ -72,7 +72,7 @@ Android Engineer specializing in Modern Android Development (MAD). Proficient in
 
 [![View Project](https://img.shields.io/badge/GitHub-SilentZone-blue?style=flat&logo=github)](https://github.com/dn-sandeeep/Silent-Zone)
 
-#### SpotifyAdMuter App (Personal Project)
+### [SpotifyAdMuter](https://github.com/dn-sandeeep/SpotifyAdsBlocker) App (Personal Project)
 Service-based Android app that runs in the background to auto-mute music ads in real time, with live stats on ads blocked, songs played, and restoring volume post-ad.
 
 - Developed an intelligent background Android service that auto-mutes ads in music streaming platforms for uninterrupted playback.
@@ -82,7 +82,7 @@ Service-based Android app that runs in the background to auto-mute music ads in 
 - Gained deep expertise in Android Services, background task management, and system event handling.
 
 ---
-#### MyAI App (Personal Project)
+### MyAI App (Personal Project)
 A mobile AI application built on the Gemini API, demonstrating proficiency in modern Android development and architectural patterns.
 
 - Developed a complete native Android application ("MyAI") using Kotlin and Jetpack Compose for a modern, declarative UI.
