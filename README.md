@@ -62,6 +62,10 @@ Android Engineer specializing in Modern Android Development (MAD). Proficient in
 
 > An Android app that automatically silences your phone based on location, WiFi network, and calendar events.
 
+<a href='https://play.google.com/store/apps/details?id=com.sandeep.silentzone'>
+  <img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' width="150"/>
+</a>
+
 **Key Highlights:**
 - 📍 **Geofencing** — Triggers silent mode in the background using Google Play Services Location API
 - 📶 **WiFi Zones** — Auto-silences when connected to a saved SSID; restores previous mode on disconnect
