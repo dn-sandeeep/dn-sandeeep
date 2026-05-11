@@ -44,7 +44,12 @@ Android Engineer specializing in Modern Android Development (MAD). Proficient in
 - **⚙️ Modern Build System:** Migrated to centralized dependency management using **Kotlin DSL (`build.gradle.kts`)** and **Gradle Version Catalogs (`libs.versions.toml`)** for highly optimized, reproducible, and faster builds.
 
 
-### 💰 [Track Spends  ](https://github.com/dn-sandeeep/Personal-Finance-Companion)
+### 💰 [Gandhi Money](https://github.com/dn-sandeeep/Personal-Finance-Companion)
+
+<a href='https://play.google.com/store/apps/details?id=com.sandeep.personalfinancecompanion'>
+  <img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' width="150"/>
+</a>
+
 > Android finance app built with Jetpack Compose & Clean Architecture
 - 📊 Dashboard with Budget Ring, Weekly Trend Charts (pure Canvas — no library)
 - 🎯 Goal tracking with Saving Velocity Engine (14-day rolling average + ETA projection)
